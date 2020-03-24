@@ -64,7 +64,7 @@ def perceptron_output(x,w,b):
     pass
 ```
 
-This code tests the `perceptron_output` function, and should produce a value of approximately 0.93
+This code tests the `perceptron_output` function, and should produce a value of approximately 0.83
 
 
 ```python
